@@ -1,0 +1,27 @@
+.node {
+  stroke: #999;
+  stroke-width: 0px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+.text{
+  font-size: 10pt;
+  padding-bottom: 5pt;
+}
+body{
+   background-color: white;
+}
+
+
+text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+  padding-bottom: 5pt;
+}
+
+p{
+  text-align: justify;
+}

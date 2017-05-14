@@ -1,0 +1,539 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 26.845637583892618,
+                            "name": "monde"
+                        },
+                        {
+                            "size": 26.174496644295303,
+                            "name": "savoir"
+                        },
+                        {
+                            "size": 24.161073825503355,
+                            "name": "croissance"
+                        },
+                        {
+                            "size": 22.818791946308725,
+                            "name": "femmes"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 39.05882352941177,
+                            "name": "politique"
+                        },
+                        {
+                            "size": 28.941176470588236,
+                            "name": "decembre"
+                        },
+                        {
+                            "size": 17.88235294117647,
+                            "name": "invite"
+                        },
+                        {
+                            "size": 14.117647058823529,
+                            "name": "vie"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 31.620553359683793,
+                            "name": "pollution"
+                        },
+                        {
+                            "size": 27.66798418972332,
+                            "name": "gauche"
+                        },
+                        {
+                            "size": 22.529644268774703,
+                            "name": "primaire"
+                        },
+                        {
+                            "size": 18.181818181818183,
+                            "name": "droite"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32.19178082191781,
+                            "name": "projet"
+                        },
+                        {
+                            "size": 30.82191780821918,
+                            "name": "pays"
+                        },
+                        {
+                            "size": 19.17808219178082,
+                            "name": "parti"
+                        },
+                        {
+                            "size": 17.80821917808219,
+                            "name": "systeme"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Centre"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 40.362438220757824,
+                            "name": "annee"
+                        },
+                        {
+                            "size": 20.922570016474463,
+                            "name": "direct"
+                        },
+                        {
+                            "size": 20.098846787479406,
+                            "name": "nouvelle"
+                        },
+                        {
+                            "size": 18.616144975288304,
+                            "name": "projet"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32.24932249322493,
+                            "name": "victimes"
+                        },
+                        {
+                            "size": 23.035230352303522,
+                            "name": "amis"
+                        },
+                        {
+                            "size": 22.493224932249323,
+                            "name": "peuple"
+                        },
+                        {
+                            "size": 22.22222222222222,
+                            "name": "terroriste"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 38.97911832946636,
+                            "name": "invite"
+                        },
+                        {
+                            "size": 22.273781902552205,
+                            "name": "securite"
+                        },
+                        {
+                            "size": 19.48955916473318,
+                            "name": "loi"
+                        },
+                        {
+                            "size": 19.25754060324826,
+                            "name": "sociale"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32.32490974729242,
+                            "name": "politique"
+                        },
+                        {
+                            "size": 26.270758122743683,
+                            "name": "gauche"
+                        },
+                        {
+                            "size": 24.465703971119133,
+                            "name": "ans"
+                        },
+                        {
+                            "size": 21.938628158844764,
+                            "name": "bilan"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Droite"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 47.79582366589327,
+                            "name": "pollution"
+                        },
+                        {
+                            "size": 18.79350348027842,
+                            "name": "air"
+                        },
+                        {
+                            "size": 17.16937354988399,
+                            "name": "ans"
+                        },
+                        {
+                            "size": 16.241299303944317,
+                            "name": "diesel"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29.20353982300885,
+                            "name": "humanite"
+                        },
+                        {
+                            "size": 27.43362831858407,
+                            "name": "guerre"
+                        },
+                        {
+                            "size": 23.008849557522122,
+                            "name": "victimes"
+                        },
+                        {
+                            "size": 20.353982300884955,
+                            "name": "civils"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 28.934010152284262,
+                            "name": "paix"
+                        },
+                        {
+                            "size": 27.918781725888326,
+                            "name": "nucleaire"
+                        },
+                        {
+                            "size": 21.82741116751269,
+                            "name": "biodiversite"
+                        },
+                        {
+                            "size": 21.31979695431472,
+                            "name": "travail"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29.571428571428573,
+                            "name": "politique"
+                        },
+                        {
+                            "size": 28.419354838709676,
+                            "name": "ecologie"
+                        },
+                        {
+                            "size": 26.34562211981567,
+                            "name": "projet"
+                        },
+                        {
+                            "size": 18.663594470046082,
+                            "name": "candidat"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Ecolos"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 35.37234042553192,
+                            "name": "invite"
+                        },
+                        {
+                            "size": 24.46808510638298,
+                            "name": "matin"
+                        },
+                        {
+                            "size": 21.54255319148936,
+                            "name": "ans"
+                        },
+                        {
+                            "size": 18.617021276595743,
+                            "name": "creche"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 26.373626373626372,
+                            "name": "politique"
+                        },
+                        {
+                            "size": 26.0989010989011,
+                            "name": "immigration"
+                        },
+                        {
+                            "size": 25.274725274725274,
+                            "name": "frontieres"
+                        },
+                        {
+                            "size": 22.252747252747252,
+                            "name": "migrants"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 30.638297872340427,
+                            "name": "francais"
+                        },
+                        {
+                            "size": 27.659574468085108,
+                            "name": "femmes"
+                        },
+                        {
+                            "size": 22.97872340425532,
+                            "name": "reportage"
+                        },
+                        {
+                            "size": 18.72340425531915,
+                            "name": "sujet"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 27.806451612903224,
+                            "name": "projet"
+                        },
+                        {
+                            "size": 27.345622119910338,
+                            "name": "sante"
+                        },
+                        {
+                            "size": 27.345622119721,
+                            "name": "gauche"
+                        },
+                        {
+                            "size": 23.502304147465438,
+                            "name": "droite"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Extreme-Droite"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 25.0,
+                            "name": "salaries"
+                        },
+                        {
+                            "size": 25.00000000006821,
+                            "name": "citoyennes"
+                        },
+                        {
+                            "size": 24.99999999993179,
+                            "name": "temps"
+                        },
+                        {
+                            "size": 25.000000000028262,
+                            "name": "parrainages"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29.921259842491423,
+                            "name": "gauche"
+                        },
+                        {
+                            "size": 29.133858267716537,
+                            "name": "programme"
+                        },
+                        {
+                            "size": 21.25984251968504,
+                            "name": "travail"
+                        },
+                        {
+                            "size": 19.68503937007874,
+                            "name": "ans"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 30.67923076923077,
+                            "name": "lutte"
+                        },
+                        {
+                            "size": 23.166923076923077,
+                            "name": "mobilises"
+                        },
+                        {
+                            "size": 23.07692307693802,
+                            "name": "solidarite"
+                        },
+                        {
+                            "size": 23.076923076908134,
+                            "name": "hier"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 31.57894736842105,
+                            "name": "pauvres"
+                        },
+                        {
+                            "size": 26.31578947368421,
+                            "name": "urgence"
+                        },
+                        {
+                            "size": 21.05263157894737,
+                            "name": "pays"
+                        },
+                        {
+                            "size": 21.05263157902154,
+                            "name": "petit"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Extreme-Gauche"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 41.427050053173964,
+                            "name": "gauche"
+                        },
+                        {
+                            "size": 24.973375931842387,
+                            "name": "primaire"
+                        },
+                        {
+                            "size": 17.41214057507987,
+                            "name": "droite"
+                        },
+                        {
+                            "size": 16.187433439829604,
+                            "name": "candidat"
+                        }
+                    ],
+                    "name": "topic_0"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 30.26086956521739,
+                            "name": "listes"
+                        },
+                        {
+                            "size": 28.869565217391305,
+                            "name": "electorales"
+                        },
+                        {
+                            "size": 25.91304347826087,
+                            "name": "inscrire"
+                        },
+                        {
+                            "size": 14.956521739130435,
+                            "name": "voter"
+                        }
+                    ],
+                    "name": "topic_1"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32.50214961306965,
+                            "name": "decembre"
+                        },
+                        {
+                            "size": 22.95786758383491,
+                            "name": "direct"
+                        },
+                        {
+                            "size": 22.44196044711952,
+                            "name": "ans"
+                        },
+                        {
+                            "size": 22.098022355975925,
+                            "name": "matin"
+                        }
+                    ],
+                    "name": "topic_2"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29.76554536187564,
+                            "name": "travail"
+                        },
+                        {
+                            "size": 30.153924566768602,
+                            "name": "loi"
+                        },
+                        {
+                            "size": 22.50866462793068,
+                            "name": "numerique"
+                        },
+                        {
+                            "size": 20.571865443425075,
+                            "name": "projet"
+                        }
+                    ],
+                    "name": "topic_3"
+                }
+            ],
+            "name": "Gauche"
+        }
+    ],
+    "name": "root"
+}

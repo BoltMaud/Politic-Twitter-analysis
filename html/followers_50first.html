@@ -1,0 +1,65 @@
+<div class="row">
+            <div class="col s1">
+                <div class="row">
+                    <a id="button-menu" href="#"  class="blue-grey darken-1 btn" data-activates="slide-out"><i class="material-icons">menu</i></a>
+                </div>
+                <div class="row">
+                    <div class='my-legend'>
+                        <div class='legend-scale'>
+                        <ul class='legend-labels'>
+                            <li><span style='background:#FF4500;'></span>NPA</li>
+                            <li><span style='background:#228B22;'></span>EE-LV</li>
+                            <li><span style='background:#E51F1F;'></span>PG</li>
+                            <li><span style='background:#FFD700;'></span>PRG</li>
+                            <li><span style='background:#FF6347'></span>PS</li>
+                            <li><span style='background:#FFA500;'></span>MoDem</li>
+                            <li><span style='background:#FFFFFF;'></span>EM</li>
+                            <li><span style='background:#800080;'></span>PR</li>
+                            <li><span style='background:#C0C0C0;'></span>FED</li>
+                            <li><span style='background:#87CEEB;'></span>LR</li>
+                            <li><span style='background:#4169E1;'></span>PCD</li>
+                            <li><span style='background:#191970;'></span>FN</li>
+
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="col" >
+                <div id="svg_div">
+                </div>
+                <div id="slider_graph">
+                    
+                </div>
+            </div>
+</div>
+<div class="row">
+                <div class="col s1">
+                    <br>
+            </div>
+</div>
+<div class="row">
+            <div class="col s1">
+            </div>
+
+            <div class="col ">
+                <div class="card">
+                <div class="card-content ">
+                      <div class="card-title  blue-grey-text  condensed-light">
+                          Similitudes des followers entre politiciens
+                      </div>
+                </div>
+                 <div class="card-content  blue-grey-text  ">
+                     <p>Notre première étude s’est porté sur les cinquantes politiciens les plus populaires. Grâce à une comparaison des identifiants de leurs followers Twitter, nous avons créé une matrice les connectant entre eux selon un pourcentage de followers communs basé sur le compte en ayant le moins. La matrice est de la forme (comptes * comptes) avec en guise de poids de l’arc un flottant : le pourcentage de communs décrit précédemment. Ainsi le résultat est normalisé et se représente sous forme de graphe. Le parti politique de chaque compte est noté afin de visualiser si des groupes se créent en fonction du parti.    <br>
+L’idée de la visualisation est de rapprocher les noeuds ayant beaucoup similitudes. La première idée fut d’utiliser cytoscape.js qui est une librairie open source de visualisation de graphe simple à prendre en main. La distance entre les noeuds est importante dans cette analyse et cytoscape.js ne propose pas une force sur les arcs. Cela permet de déplacer le graphe pour visualiser les noeuds intéressants sans modifier leur valeur. C’est pourquoi nous nous sommes tournés vers D3.js qui propose cette option.   <br>
+    Dans cette visualisation le slider sous le graphe permet de choisir le seuil en pourcentage de followers communs minimal pour une liaison entre deux noeuds représentants les comptes politiques. Par exemple, on peut choisir que les personnalités sont reliées si elles ont au minimum de 60% de followers communs sur la base de celui qui en a le moins. 
+  
+                     </p>
+                </div>
+            </div>
+</div>
+
+<script>
+    $("#button-menu").sideNav();
+</script>

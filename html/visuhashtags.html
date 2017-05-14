@@ -1,0 +1,55 @@
+    <style>
+
+        body {
+            font-family: Verdana,Arial,sans-serif;
+        }
+
+        h2 {
+            font-size: 1.2em;
+            margin: 60px 0 5px 0;
+        }
+
+        .wrapper {
+            width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .wrapper > div {
+            margin: 35px 0;
+        }
+
+        .httext,.label {
+            font: 15px sans-serif;
+            text-anchor: start;
+        }
+
+    </style>
+<div class="row">
+            <div class="col s2">
+                <div class="row">
+                    <a id="button-menu" href="#"  class="blue-grey darken-1 btn" data-activates="slide-out"><i class="material-icons">menu</i></a>
+                </div>
+            </div>
+  <div class="col s8">
+      <div class="row">
+      </div>
+        <div class="row">
+      
+    <svg id="svg" class="chart"></svg>
+    <div class="wrapper">
+        <div id="slider-date"></div>
+        <br />
+        <div id="slider-nb"></div>
+        <br /><br />
+        <!--<input type="checkbox" name="choix0" value="0" class="sidecheckbox" checked> Extreme-Gauche-->
+        <!--<input type="checkbox" name="choix1" value="1" class="sidecheckbox" checked> Ecolos-->
+        <!--<input type="checkbox" name="choix2" value="2" class="sidecheckbox" checked> Gauche-->
+        <!--<input type="checkbox" name="choix3" value="3" class="sidecheckbox" checked> Centre-->
+        <!--<input type="checkbox" name="choix4" value="4" class="sidecheckbox" checked> Droite-->
+        <!--<input type="checkbox" name="choix5" value="5" class="sidecheckbox" checked> Extreme-Droite-->
+ </div></div></div></div></div>
+    	<script src="js/visuhashtags.js"></script>
+<script>
+    $("#button-menu").sideNav();
+</script>

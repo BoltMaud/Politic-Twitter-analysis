@@ -1,0 +1,132 @@
+
+
+
+<div class="row">
+            <div class="col s1">
+                <div class="row">
+                    <a id="button-menu" href="#"  class="blue-grey darken-1 btn" data-activates="slide-out"><i class="material-icons">menu</i></a>
+                </div>
+            </div>
+			
+			<div class="col s8" >
+                <div id="svg_div">
+                </div>
+                <div id="boutons">
+                    <a id="Connecteurs" class="waves-effect waves-light btn" onclick='create_bars("Connecteurs")'>Connecteurs</a>
+                    <a id="Verbes" class='waves-effect white blue-grey-text btn' onclick='create_bars("Verbes")'>Verbes</a>
+                    <a id="Modalisations" class='waves-effect white blue-grey-text btn' onclick='create_bars("Modalisations")'>Modalisations</a>
+                    <a id="Adjectifs" class='waves-effect white blue-grey-text btn' onclick='create_bars("Adjectifs")'>Adjectifs</a>
+                    <a id="Pronoms" class='waves-effect white blue-grey-text btn' onclick='create_bars("Pronoms")'>Pronoms</a>
+                </div>
+            </div>
+</div>
+<div class="row">
+                <div class="col s1">
+                    <br>
+            </div>
+</div>
+<div class="row">
+           <div class="col s1">
+                    <br>
+            </div>
+            <div class="col ">
+                <div class="card">
+                <div class="card-content ">
+                      <div class="card-title  blue-grey-text  condensed-light">
+                         Analyse lexicale avec Tropes
+                      </div>
+                </div>
+                 <div class="card-content  blue-grey-text  ">
+                     <p>   
+                      Inspirés par l’analyse de  Cécile Alduy en 2015 avec le livre Marine Le Pen prise aux mots, décryptage du nouveau discours frontiste, nous trouvons le logiciel libre Tropes qui permet une analyse sémantique de textes.  Le logiciel a été créé en 1994 et se base sur une analyse morphosyntaxique, un lexique et un réseau sémantique qui attribuent une catégorie aux mots selon leur appartenance à un domaine grâce à une l’intelligence artificielle. <br>
+    Nous avons lancé cette étude à deux reprises lors de notre développement : d’abord pour une analyse des tweets par parti politique parmis les cinquantes politiciens les plus populaires donnés, puis sur les onze candidats officiels.<br>
+    Une visualisation en bâton permet une comparaison lisible entre les résultats. On peut ainsi remarquer rapidement si un des groupes se différencie. 
+                </div>
+                </div>
+               
+            </div>
+</div>
+
+<script>
+    $("#button-menu").sideNav();
+</script>
+<style>
+
+
+
+
+.toolTip {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 15px #888888;
+    color: black;
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+    margin-left:50px;
+}
+
+.legend {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 60%;
+}
+
+rect {
+    stroke-width: 2;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path{
+  fill: none;
+  stroke: #000;
+}
+
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis .tick line {
+  stroke-width: 1;
+  stroke: rgba(0, 0, 0, 0.2);
+}
+
+.axisHorizontal path{
+  fill: none;
+}
+
+.axisHorizontal line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axisHorizontal .tick line {
+  stroke-width: 1;
+  stroke: rgba(0, 0, 0, 0.2);
+}
+
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.x.axis path {
+  display: none;
+}
+
+</style>

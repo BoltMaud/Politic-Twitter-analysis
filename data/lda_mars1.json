@@ -1,0 +1,539 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Centre",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "politique",
+                            "size": 32.69230769230769
+                        },
+                        {
+                            "name": "candidat",
+                            "size": 30.048076923076923
+                        },
+                        {
+                            "name": "projet",
+                            "size": 19.471153846153847
+                        },
+                        {
+                            "name": "droite",
+                            "size": 17.78846153846154
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "mesures",
+                            "size": 30.0
+                        },
+                        {
+                            "name": "presse",
+                            "size": 26.25
+                        },
+                        {
+                            "name": "proprete",
+                            "size": 22.5
+                        },
+                        {
+                            "name": "monde",
+                            "size": 21.25
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "maire",
+                            "size": 30.681818181818183
+                        },
+                        {
+                            "name": "mars",
+                            "size": 25.568181818181817
+                        },
+                        {
+                            "name": "ans",
+                            "size": 22.15909090909091
+                        },
+                        {
+                            "name": "femme",
+                            "size": 21.59090909090909
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "invite",
+                            "size": 34.54545454545455
+                        },
+                        {
+                            "name": "demain",
+                            "size": 25.09090909090909
+                        },
+                        {
+                            "name": "mars",
+                            "size": 23.272727272727273
+                        },
+                        {
+                            "name": "matin",
+                            "size": 17.09090909090909
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Droite",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "femmes",
+                            "size": 34.687002652519894
+                        },
+                        {
+                            "name": "matin",
+                            "size": 25.93368700265252
+                        },
+                        {
+                            "name": "mars",
+                            "size": 23.811671087533156
+                        },
+                        {
+                            "name": "projet",
+                            "size": 18.56763925729443
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "propose",
+                            "size": 29.754601226993866
+                        },
+                        {
+                            "name": "ans",
+                            "size": 26.687116564417177
+                        },
+                        {
+                            "name": "programme",
+                            "size": 26.073619631901842
+                        },
+                        {
+                            "name": "travail",
+                            "size": 17.484662576687118
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "invite",
+                            "size": 36.7704280155642
+                        },
+                        {
+                            "name": "vote",
+                            "size": 28.01556420233463
+                        },
+                        {
+                            "name": "demain",
+                            "size": 21.20622568093385
+                        },
+                        {
+                            "name": "etranger",
+                            "size": 14.007782101167315
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "politique",
+                            "size": 27.29766803840878
+                        },
+                        {
+                            "name": "candidat",
+                            "size": 25.78875171467764
+                        },
+                        {
+                            "name": "seul",
+                            "size": 24.005486968449933
+                        },
+                        {
+                            "name": "projet",
+                            "size": 22.90809327846365
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ecolos",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "alerte",
+                            "size": 35.734693877551024
+                        },
+                        {
+                            "name": "interdire",
+                            "size": 23.448979591836736
+                        },
+                        {
+                            "name": "vis",
+                            "size": 21.408163265306122
+                        },
+                        {
+                            "name": "jeu",
+                            "size": 21.40816326538318
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "travail",
+                            "size": 30.303030302953246
+                        },
+                        {
+                            "name": "biodiversite",
+                            "size": 28.282828282828284
+                        },
+                        {
+                            "name": "rencontre",
+                            "size": 21.21212121212121
+                        },
+                        {
+                            "name": "agriculture",
+                            "size": 20.2020202020202
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "mars",
+                            "size": 32.432432432432435
+                        },
+                        {
+                            "name": "ans",
+                            "size": 26.126126126126128
+                        },
+                        {
+                            "name": "nucleaire",
+                            "size": 23.123123123123122
+                        },
+                        {
+                            "name": "femmes",
+                            "size": 18.31831831831832
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "politique",
+                            "size": 31.683168316831683
+                        },
+                        {
+                            "name": "projet",
+                            "size": 25.742574257425744
+                        },
+                        {
+                            "name": "campagne",
+                            "size": 24.09240924092409
+                        },
+                        {
+                            "name": "programme",
+                            "size": 18.48184818481848
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Extreme-Droite",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "droite",
+                            "size": 30.524590163934427
+                        },
+                        {
+                            "name": "justice",
+                            "size": 28.885245901639344
+                        },
+                        {
+                            "name": "gauche",
+                            "size": 24.62295081967213
+                        },
+                        {
+                            "name": "immigration",
+                            "size": 23.9672131147541
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "pays",
+                            "size": 29.86425339366516
+                        },
+                        {
+                            "name": "immigration",
+                            "size": 24.8868778280543
+                        },
+                        {
+                            "name": "economique",
+                            "size": 22.624434389140273
+                        },
+                        {
+                            "name": "interets",
+                            "size": 22.624434389206264
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "invite",
+                            "size": 28.41225626734348
+                        },
+                        {
+                            "name": "mars",
+                            "size": 26.18384401114206
+                        },
+                        {
+                            "name": "matin",
+                            "size": 23.955431754874652
+                        },
+                        {
+                            "name": "soutien",
+                            "size": 21.448467966573816
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "campagne",
+                            "size": 32.03463203463203
+                        },
+                        {
+                            "name": "femmes",
+                            "size": 24.675324675324674
+                        },
+                        {
+                            "name": "ans",
+                            "size": 23.80952380952381
+                        },
+                        {
+                            "name": "parle",
+                            "size": 19.48051948051948
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Extreme-Gauche",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "mars",
+                            "size": 72.63157894736842
+                        },
+                        {
+                            "name": "propose",
+                            "size": 9.473684210526315
+                        },
+                        {
+                            "name": "politique",
+                            "size": 9.473684210529406
+                        },
+                        {
+                            "name": "retraite",
+                            "size": 8.421052631575856
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "manifestation",
+                            "size": 28.571428571428573
+                        },
+                        {
+                            "name": "costumes",
+                            "size": 28.57142857149779
+                        },
+                        {
+                            "name": "mediatique",
+                            "size": 21.42857142850221
+                        },
+                        {
+                            "name": "sociaux",
+                            "size": 21.428571428571427
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "patrons",
+                            "size": 30.76923076923077
+                        },
+                        {
+                            "name": "ales",
+                            "size": 23.076923076923077
+                        },
+                        {
+                            "name": "prise",
+                            "size": 23.076923076971372
+                        },
+                        {
+                            "name": "coeur",
+                            "size": 23.07692307687478
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "mois",
+                            "size": 28.57142857148362
+                        },
+                        {
+                            "name": "mars",
+                            "size": 28.571428571373527
+                        },
+                        {
+                            "name": "invite",
+                            "size": 21.428571428626476
+                        },
+                        {
+                            "name": "logement",
+                            "size": 21.428571428516378
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gauche",
+            "children": [
+                {
+                    "name": "topic_0",
+                    "children": [
+                        {
+                            "name": "jeunes",
+                            "size": 29.17369308600337
+                        },
+                        {
+                            "name": "visite",
+                            "size": 24.620573355817875
+                        },
+                        {
+                            "name": "matin",
+                            "size": 23.60876897133221
+                        },
+                        {
+                            "name": "ministre",
+                            "size": 22.596964586846543
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_1",
+                    "children": [
+                        {
+                            "name": "gauche",
+                            "size": 29.398663697104677
+                        },
+                        {
+                            "name": "mars",
+                            "size": 27.542687453600593
+                        },
+                        {
+                            "name": "politique",
+                            "size": 22.93986636971047
+                        },
+                        {
+                            "name": "candidat",
+                            "size": 20.11878247958426
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_2",
+                    "children": [
+                        {
+                            "name": "mars",
+                            "size": 40.54726368159204
+                        },
+                        {
+                            "name": "femmes",
+                            "size": 34.5771144278607
+                        },
+                        {
+                            "name": "droits",
+                            "size": 14.116915422885572
+                        },
+                        {
+                            "name": "egalite",
+                            "size": 10.75870646766169
+                        }
+                    ]
+                },
+                {
+                    "name": "topic_3",
+                    "children": [
+                        {
+                            "name": "travail",
+                            "size": 30.015797788309637
+                        },
+                        {
+                            "name": "ans",
+                            "size": 26.540284360189574
+                        },
+                        {
+                            "name": "services",
+                            "size": 21.958925750394943
+                        },
+                        {
+                            "name": "publics",
+                            "size": 21.484992101105846
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
