@@ -13,6 +13,42 @@
             </div>
 </div>
 </div>
+<div class="row">
+                <div class="col s1">
+                    <br>
+            </div>
+</div>
+<div class="row">
+            <div class="col s1">
+            </div>
+
+            <div class="col ">
+                <div class="card">
+                <div class="card-content ">
+                      <div class="card-title  blue-grey-text  condensed-light">
+Thématique des tweets - Latent Dirichlet allocation               
+       </div>
+                </div>
+                 <div class="card-content  blue-grey-text  ">
+                     <p>Le jeu de données de cette analyse contient les tweets de 385 comptes politiques de la liste donnée par
+Le Monde, leur date et leur orientation politique (Extrème-droite, Droite, Centre, Gauche, Ecolos et Extrème-
+gauche). L’idée de l’analyse est de sortir les thèmes des six côtés afin de voir leur évolution dans le temps et
+de les comparer. <br>
+Nous avons d’abord essayer d’utiliser l’Allocation Dirichlet Latente en Python avec la librairie Gensim
+mais le logiciel Knime nous a paru beaucoup plus pertinent pour la maniabilité des données qu’il propose.<br>
+Par le biais de filtres sur colonnes et lignes, nous avons sorti les thèmes des côtés politiques par période du
+1er novembre jusqu’au 30 avril. Nous avons préalablement retiré les mots appelés stop words très utilisés
+et insignifiants dans une analyse thématique tels que les déterminants.<br>
+La visualisation de ce travail est en quatre dimensions : le temps, le groupe politique, les thèmes et
+les mots des thèmes. D3.js propose des visualisations de pack comme des bulles dans lesquelles on peut
+regrouper d’autres bulles. Ainsi chaque bulle représente un groupe poli que dans laquelle il y a
+quatre bulles contenant chacune quatre mots : c’est le résultat du modèle LDA. Sous le graphique, un axe
+temporel permet de se situer et de faire évoluer les thèmes des groupes dans le temps. Il est aussi possible de
+zoomer sur un côté politique.
+                     </p>
+                </div>
+            </div>
+</div>
 <script src="./js/lda_side.js"></script>
 <script>
     $("#button-menu").sideNav();
